@@ -10,6 +10,7 @@ import java.util.Scanner;
  */
 public class Problem158A {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt(); //the no of participants
         int k = sc.nextInt(); //the finisher's player position
