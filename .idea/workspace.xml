@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9e046d9-35a6-462e-af84-c523f5a80d41" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d9e046d9-35a6-462e-af84-c523f5a80d41" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +15,7 @@
       <file leaf-file-name="Problem158A.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem158A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="0">
               <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
@@ -44,13 +42,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem282A.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Problem282A.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem282A.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="49" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="292">
+              <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem96A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Problem96A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="true">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="1152" column="24" lean-forward="false" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="24" />
+              <folding>
+                <element signature="e#104675#104676#0" expanded="true" />
+                <element signature="e#104730#104731#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,6 +89,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>replaceAll</find>
+      <find>out</find>
+      <find>compareTo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -93,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/Problem118A.java" />
         <option value="$PROJECT_DIR$/src/Problem231A.java" />
         <option value="$PROJECT_DIR$/src/Problem282A.java" />
+        <option value="$PROJECT_DIR$/src/Problem96A.java" />
       </list>
     </option>
   </component>
@@ -170,7 +194,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
-    <property name="SearchEverywhereHistoryKey" value="string&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;String&#9;PSI&#9;JAVA://java.lang.String" />
+    <property name="SearchEverywhereHistoryKey" value="string&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;scanner&#9;PSI&#9;JAVA://java.util.Scanner&#10;str&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;String&#9;PSI&#9;JAVA://java.lang.String" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -184,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem282A">
+  <component name="RunManager" selected="Application.Problem96A">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -247,9 +271,9 @@
       <module name="CompetitiveProgramming" />
       <envs />
     </configuration>
-    <configuration name="Problem71A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem96A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Problem71A" />
+      <option name="MAIN_CLASS_NAME" value="Problem96A" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -336,19 +360,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Problem71A" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Problem158A" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Problem118A" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Problem231A" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Problem282A" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Problem158A" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Problem118A" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Problem231A" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Problem282A" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Problem96A" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Problem282A" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Problem231A" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Problem118A" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Problem158A" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Problem71A" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Problem96A" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Problem282A" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Problem231A" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Problem118A" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Problem158A" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +404,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -551,16 +575,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="2668" column="18" lean-forward="false" selection-start-line="2668" selection-start-column="18" selection-end-line="2668" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem158A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="0">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
@@ -582,12 +599,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="303" column="19" lean-forward="false" selection-start-line="303" selection-start-column="19" selection-end-line="303" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="103" column="50" lean-forward="true" selection-start-line="103" selection-start-column="50" selection-end-line="103" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem282A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="49" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="292">
+          <caret line="30" column="10" lean-forward="true" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem96A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="1152" column="24" lean-forward="false" selection-start-line="1152" selection-start-column="15" selection-end-line="1152" selection-end-column="24" />
+          <folding>
+            <element signature="e#104675#104676#0" expanded="true" />
+            <element signature="e#104730#104731#0" expanded="true" />
           </folding>
         </state>
       </provider>
