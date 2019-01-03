@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9e046d9-35a6-462e-af84-c523f5a80d41" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Problem318A.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Problem59A.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,11 +28,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem318A.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Problem318A.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Problem318A.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem59A.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Problem59A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -99,6 +109,7 @@
         <option value="$PROJECT_DIR$/src/Suneet.java" />
         <option value="$PROJECT_DIR$/src/Problem208A.java" />
         <option value="$PROJECT_DIR$/src/Problem318A.java" />
+        <option value="$PROJECT_DIR$/src/Problem59A.java" />
       </list>
     </option>
   </component>
@@ -190,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem318A">
+  <component name="RunManager" selected="Application.Problem59A">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -239,9 +250,9 @@
       <module name="CompetitiveProgramming" />
       <envs />
     </configuration>
-    <configuration name="Problem486A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem59A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Problem486A" />
+      <option name="MAIN_CLASS_NAME" value="Problem59A" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -342,19 +353,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Problem486A" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Suneet" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Problem208A" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Problem318A" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Suneet" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Problem208A" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Problem318A" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Problem59A" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Problem318A" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Problem208A" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Suneet" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Problem486A" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Problem59A" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Problem318A" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Problem208A" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Suneet" />
       </list>
     </recent_temporary>
   </component>
@@ -787,6 +798,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem59A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
