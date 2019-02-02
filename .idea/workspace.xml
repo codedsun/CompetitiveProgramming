@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9e046d9-35a6-462e-af84-c523f5a80d41" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Problem200B.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/META-INF/CompetitiveProgramming.kotlin_module" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Problem520A.java" afterPath="$PROJECT_DIR$/src/Problem520A.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,23 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Problem228A.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Problem228A.java">
+      <file leaf-file-name="Problem200B.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Problem200B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem705A.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Problem705A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="225">
+              <caret line="18" column="39" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -116,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/Problem520A.java" />
         <option value="$PROJECT_DIR$/src/Problem228A.java" />
         <option value="$PROJECT_DIR$/src/Problem705A.java" />
+        <option value="$PROJECT_DIR$/src/Problem200B.java" />
       </list>
     </option>
   </component>
@@ -185,10 +173,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -207,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem705A">
+  <component name="RunManager" selected="Application.Problem200B">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -228,9 +216,9 @@
       <module name="CompetitiveProgramming" />
       <envs />
     </configuration>
-    <configuration name="Problem228A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem200B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Problem228A" />
+      <option name="MAIN_CLASS_NAME" value="Problem200B" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -242,9 +230,9 @@
       <module name="CompetitiveProgramming" />
       <envs />
     </configuration>
-    <configuration name="Problem268A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Problem228A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Problem268A" />
+      <option name="MAIN_CLASS_NAME" value="Problem228A" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -359,19 +347,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Problem268A" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Karan" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Problem520A" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Problem228A" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Problem705A" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Karan" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Problem520A" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Problem228A" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Problem705A" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Problem200B" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Problem705A" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Problem228A" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Problem520A" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Karan" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Problem268A" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Problem200B" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Problem705A" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Problem228A" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Problem520A" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Karan" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +396,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3253857" sideWeight="0.4914163" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26895565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2725322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -487,13 +475,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Problem467A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem486A.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -821,10 +802,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Problem228A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="135">
           <caret line="14" column="41" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -833,6 +814,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Problem200B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
