@@ -25,6 +25,7 @@ public class SinglyLinkedList {
         head.next.next = new Node(3); //1->2->3->null
         head.next.next.next = new Node(4); //1->2->3->4->null
         printLinkedList(head);
+        printLengthLinkedList(head);
     }
 
     static void printLinkedList(Node head) {
@@ -46,7 +47,7 @@ public class SinglyLinkedList {
             count++;
             head= head.next;
         }
-        System.out.println(head);
+        System.out.println(count);
     }
 
 }

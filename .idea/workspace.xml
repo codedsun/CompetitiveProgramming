@@ -2,89 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9e046d9-35a6-462e-af84-c523f5a80d41" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinkedList/LinkedList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/LinkedListDeletion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/SinglyLinkedList.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Hello.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem112A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem116A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem118A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem122A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem133A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem158A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem160A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem200B.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem208A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem228A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem231A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem236A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem25A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem263A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem266A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem268A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem281A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem282A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem318A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem339A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem344A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem443A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem451A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem467A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem469A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem486A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem4A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem520A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem546A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem59A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem617A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem61A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem677A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem69A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem705A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem71A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem734A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Problem96A.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" afterPath="$PROJECT_DIR$/src/Codeforces/Hello.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem112A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem112A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem116A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem116A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem118A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem118A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem122A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem122A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem133A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem133A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem158A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem158A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem160A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem160A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem200B.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem200B.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem208A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem208A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem228A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem228A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem231A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem231A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem236A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem236A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem25A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem25A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem263A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem263A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem266A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem266A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem268A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem268A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem281A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem281A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem282A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem282A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem318A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem318A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem339A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem339A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem344A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem344A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem443A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem443A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem451A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem451A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem467A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem467A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem469A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem469A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem486A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem486A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem4A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem4A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem520A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem520A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem546A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem546A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem59A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem59A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem617A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem617A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem61A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem61A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem677A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem677A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem69A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem69A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem705A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem705A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem71A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem71A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem734A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem734A.java" />
-      <change beforePath="$PROJECT_DIR$/src/Problem96A.java" afterPath="$PROJECT_DIR$/src/Codeforces/Problem96A.java" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/SinglyLinkedList.java" afterPath="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/SinglyLinkedList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,21 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SinglyLinkedList.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SinglyLinkedList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/SinglyLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+            <state relative-caret-position="326">
+              <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkedListDeletion.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LinkedListDeletion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/LinkedListDeletion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1033">
-              <caret line="76" column="22" lean-forward="false" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+            <state relative-caret-position="360">
+              <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -197,8 +115,8 @@
         <option value="$PROJECT_DIR$/src/Problem200B.java" />
         <option value="$PROJECT_DIR$/src/Codeforces/Problem116A.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/LinkedList.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/SinglyLinkedList.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/LinkedListDeletion.java" />
+        <option value="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/SinglyLinkedList.java" />
       </list>
     </option>
   </component>
@@ -303,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinkedListDeletion">
+  <component name="RunManager" selected="Application.SinglyLinkedList">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -473,8 +391,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LinkedListDeletion" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SinglyLinkedList" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SinglyLinkedList" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LinkedListDeletion" />
         <item index="2" class="java.lang.String" itemvalue="Application.Problem200B" />
         <item index="3" class="java.lang.String" itemvalue="Application.Problem705A" />
         <item index="4" class="java.lang.String" itemvalue="Application.Problem228A" />
@@ -509,9 +427,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816902" sideWeight="0.50858366" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32678822" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32678822" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3253857" sideWeight="0.4914163" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3253857" sideWeight="0.4914163" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2725322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -937,18 +855,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/SinglyLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/LinkedListDeletion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        <state relative-caret-position="360">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/LinkedListDeletion.java">
+    <entry file="file://$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/SinglyLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1033">
-          <caret line="76" column="22" lean-forward="false" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
+        <state relative-caret-position="326">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
           <folding />
         </state>
       </provider>
