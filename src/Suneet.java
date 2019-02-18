@@ -11,16 +11,17 @@ class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long t = sc.nextInt();
-        HashMap<String, Integer> hashMap = new HashMap<>();
+        int a, b, c, d;
         while (t-- >= 1) {
-            String s = sc.next();
-            if(hashMap.containsKey(s)){
-                System.out.println(s+""+hashMap.get(s));
-                hashMap.put(s,hashMap.get(s)+1);
-                hashMap.put(s+""+hashMap.get(s),1);
+            a = sc.nextInt();
+            b = sc.nextInt();
+            c = sc.nextInt();
+            d = sc.nextInt();
+            if (a == d) {
+                System.out.println(b + " " + c);
             } else{
-                hashMap.put(s,1);
-                System.out.println("OK");
+                System.out.println(a + " " + d);
+
             }
         }
     }
