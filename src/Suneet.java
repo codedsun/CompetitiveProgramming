@@ -1,28 +1,30 @@
-import java.io.*;
-import java.util.HashMap;
 import java.util.Scanner;
-import java.util.function.BiConsumer;
 
 /**
  * @author : codedsun
  * Created on 28/12/18
  */
-class Main {
+public class Suneet {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        long t = sc.nextInt();
-        int a, b, c, d;
-        while (t-- >= 1) {
-            a = sc.nextInt();
-            b = sc.nextInt();
-            c = sc.nextInt();
-            d = sc.nextInt();
-            if (a == d) {
-                System.out.println(b + " " + c);
-            } else{
-                System.out.println(a + " " + d);
-
+        int t = sc.nextInt();
+        long sum = 0;
+        long prevsum = 0;
+        int c = 0;
+        int iter = t-2;
+        while (t-- >= iter) {
+            for (int i = 1; i <= t+1; i++) {
+                sum = sum + sc.nextLong();
             }
+            if (c == 0) {
+                prevsum = sum;
+                sum = 0;
+            } else {
+                System.out.println(prevsum-sum);
+                prevsum = sum;
+                sum = 0;
+            }
+            c++;
         }
     }
 
