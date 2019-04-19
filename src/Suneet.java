@@ -7,23 +7,27 @@ import java.util.Scanner;
 public class Suneet {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String str = sc.next();
-        int t = sc.nextInt();
-        int x, y;
-        int[] eq = new int[str.length()];
-        for (int j = 1; j <eq.length; j++) {
-            if (str.charAt(j) == str.charAt(j - 1)) {
-                eq[j] += eq[j - 1]+1;
-            } else {
-                eq[j] = eq[j - 1];
+        int two = sc.nextInt();
+        int three = sc.nextInt();
+        int five = sc.nextInt();
+        int six = sc.nextInt();
+        long totalSum = 0;
+        while (two >= 1){
+            if(five>=1 && six>=1){
+                totalSum = totalSum+256;
+                two--;
+                five--;six--;
+            }
+            else if(two>=1 && three>=1){
+                totalSum = totalSum+32;
+                two--;
+                three--;
+            }else {
+                two--;
             }
         }
-        while (t-- >= 1) {
-            x = sc.nextInt();
-            y = sc.nextInt();
 
-            System.out.println(eq[y-1] - eq[x-1]);
-        }
+        System.out.println(totalSum);
     }
 
 }

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9e046d9-35a6-462e-af84-c523f5a80d41" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Problem734B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Suneet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Suneet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Suneet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Suneet.java" afterDir="false" />
@@ -21,11 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Suneet.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="26" selection-end-line="29" />
+            <state relative-caret-position="225">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem734B.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -53,8 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Problem231A.java" />
-        <option value="$PROJECT_DIR$/src/Problem282A.java" />
         <option value="$PROJECT_DIR$/src/Problem96A.java" />
         <option value="$PROJECT_DIR$/src/Problem112A.java" />
         <option value="$PROJECT_DIR$/src/Problem339A.java" />
@@ -103,7 +111,9 @@
         <option value="$PROJECT_DIR$/src/Codeforces/Problem230B.java" />
         <option value="$PROJECT_DIR$/src/Codeforces/Problem519B.java" />
         <option value="$PROJECT_DIR$/src/Codeforces/Problem474B.java" />
+        <option value="$PROJECT_DIR$/src/Codeforces/Problem313B.java" />
         <option value="$PROJECT_DIR$/src/Suneet.java" />
+        <option value="$PROJECT_DIR$/src/Codeforces/Problem734B.java" />
       </list>
     </option>
   </component>
@@ -163,7 +173,7 @@
               <item name="CompetitiveProgramming" type="b2602c69:ProjectViewProjectNode" />
               <item name="CompetitiveProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="Codeforces" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CompetitiveProgramming" type="b2602c69:ProjectViewProjectNode" />
@@ -173,8 +183,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,17 +204,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Suneet">
+  <component name="RunManager" selected="Application.Problem734B">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="CompetitiveProgramming" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -239,6 +241,20 @@
     </configuration>
     <configuration name="Problem519B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codeforces.Problem519B" />
+      <module name="CompetitiveProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem734B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem734B" />
       <module name="CompetitiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -291,19 +307,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Problem230B" />
       <item itemvalue="Application.Problem474B" />
       <item itemvalue="Application.Problem519B" />
       <item itemvalue="Application.Suneet" />
+      <item itemvalue="Application.Problem734B" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem734B" />
         <item itemvalue="Application.Suneet" />
         <item itemvalue="Application.Problem474B" />
         <item itemvalue="Application.Problem519B" />
         <item itemvalue="Application.Problem230B" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +340,7 @@
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.41273248" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27896994" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -429,6 +445,18 @@
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Suneet.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Suneet.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -517,6 +545,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem313B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Suneet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -524,10 +566,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Suneet.java">
+    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem734B.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="26" selection-end-line="29" />
+        <state relative-caret-position="390">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
         </state>
       </provider>
     </entry>
