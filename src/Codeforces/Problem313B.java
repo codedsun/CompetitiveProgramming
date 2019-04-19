@@ -1,10 +1,13 @@
+package Codeforces;
+
 import java.util.Scanner;
 
+
 /**
- * @author : codedsun
- * Created on 28/12/18
+ * <a href="https://codeforces.com/problemset/problem/313/B"/>
  */
-public class Suneet {
+public class Problem313B {
+
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.next();
@@ -25,5 +28,4 @@ public class Suneet {
             System.out.println(eq[y-1] - eq[x-1]);
         }
     }
-
 }
