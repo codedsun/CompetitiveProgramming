@@ -1,3 +1,5 @@
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Scanner;
 
 /**
@@ -7,27 +9,23 @@ import java.util.Scanner;
 public class Suneet {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int two = sc.nextInt();
-        int three = sc.nextInt();
-        int five = sc.nextInt();
-        int six = sc.nextInt();
-        long totalSum = 0;
-        while (two >= 1){
-            if(five>=1 && six>=1){
-                totalSum = totalSum+256;
-                two--;
-                five--;six--;
-            }
-            else if(two>=1 && three>=1){
-                totalSum = totalSum+32;
-                two--;
-                three--;
-            }else {
-                two--;
-            }
+        Map<String, String> stringMap = new HashMap<>();
+        int n = sc.nextInt();
+        int m = sc.nextInt();
+        String s, s1;
+        StringBuilder result = new StringBuilder();
+        while (m-- >= 1) {
+            s = sc.next();
+            s1 = sc.next();
+            stringMap.put(s, (s.length() <= s1.length()) ? s : s1);
         }
 
-        System.out.println(totalSum);
+        while(n-->=1){
+            result.append(stringMap.get(sc.next()));
+            result.append(" ");
+        }
+        System.out.println(result.toString().trim());
+
     }
 
 }
