@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9e046d9-35a6-462e-af84-c523f5a80d41" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Problem368B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem467B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem467B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Suneet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Suneet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Suneet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Suneet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,10 +21,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem368B.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="279">
+              <caret line="37" column="1" lean-forward="true" selection-end-line="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -55,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Problem281A.java" />
         <option value="$PROJECT_DIR$/src/Problem263A.java" />
         <option value="$PROJECT_DIR$/src/Problem158B.java" />
         <option value="$PROJECT_DIR$/src/Problem116A.java" />
@@ -106,6 +106,7 @@
         <option value="$PROJECT_DIR$/src/Codeforces/Problem467B.java" />
         <option value="$PROJECT_DIR$/src/Suneet.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Codeforces/Problem368B.java" />
       </list>
     </option>
   </component>
@@ -163,12 +164,6 @@
             </path>
             <path>
               <item name="CompetitiveProgramming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CompetitiveProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Codeforces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CompetitiveProgramming" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -197,15 +192,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Suneet">
+  <component name="RunManager" selected="Application.Problem368B">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem467B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem467B" />
+    <configuration name="Problem368B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem368B" />
       <module name="CompetitiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -218,8 +213,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem474B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem474B" />
+    <configuration name="Problem467B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem467B" />
       <module name="CompetitiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -301,18 +296,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Problem467B" />
-      <item itemvalue="Application.Problem474B" />
       <item itemvalue="Application.Problem499B" />
       <item itemvalue="Application.Problem734B" />
       <item itemvalue="Application.Suneet" />
+      <item itemvalue="Application.Problem368B" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem368B" />
         <item itemvalue="Application.Suneet" />
         <item itemvalue="Application.Problem467B" />
         <item itemvalue="Application.Problem499B" />
         <item itemvalue="Application.Problem734B" />
-        <item itemvalue="Application.Problem474B" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +328,7 @@
     <frame x="0" y="23" width="1440" height="799" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31473532" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31473532" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -342,12 +337,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.38613862" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.38613862" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.37570623" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4914163" visible="true" weight="0.32248938" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4914163" weight="0.32248938" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50858366" side_tool="true" weight="0.32816902" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32909605" />
@@ -620,6 +615,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem368B.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem368B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="37" column="1" lean-forward="true" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
