@@ -1,36 +1,67 @@
-import java.util.LinkedHashSet;
 import java.util.Scanner;
-import java.util.Set;
 
 /**
  * @author : codedsun
  * Created on 28/12/18
  */
 
+
 public class Suneet {
-
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt(); //the
-        int a[] = new int[n];
-        int m = sc.nextInt(); // the m queries
-        Set<Integer> set = new LinkedHashSet<>();
-        int distinct[] = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            a[i] = sc.nextInt();
-        }
-
-        for(int j = n-1; j>=0;j--){
-            set.add(a[j]);
-            distinct[j] = set.size();
-        }
-
-        while(m -- >= 1){
-            System.out.println(distinct[sc.nextInt()-1]);
-        }
-
+        String s=  "https://www.pinterest.com/suneetbond/";
+        System.out.println(s.substring(26,s.length()-1));
+//        Scanner sc = new Scanner(System.in);
+//        int n = sc.nextInt();
+//        int a[] = new int[n];
+//        int b[] = new int[n];
+//        for (int i = 0; i < n; i++) {
+//            a[i] = sc.nextInt();
+//            b[i] = a[i];
+//        }
+//        int c;
+//        for (int i = 1; i < n; i++) {
+//            if (a[i - 1] > a[i]) {
+//                c = a[i - 1];
+//                a[i - 1] = a[i];
+//                a[i] = c;
+//            }
+//        }
 
     }
-
 }
+
+
+//PROBLEM FENCE
+
+//public class Suneet {
+//
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//        int n = sc.nextInt();
+//        int k = sc.nextInt();
+//        int[] a = new int[n];
+//        for (int i = 0; i < n; i++) {
+//            a[i] = sc.nextInt();
+//        }
+//
+//        int sum = 0;
+//        int windowSum = 0;
+//        int indexMin = k-1;
+//
+//        for (int j = 0; j < k; j++) {
+//            sum = sum + a[j];
+//        }
+//
+//        windowSum = sum;
+//        for (int i = k; i < n; i++) {
+//            windowSum = windowSum + a[i] - a[i - k];
+//            if(windowSum<sum){
+//                sum = windowSum;
+//                indexMin = i;
+//            }
+//        }
+//        System.out.println(indexMin+1-k+1);
+//
+//    }
+//
+//}
