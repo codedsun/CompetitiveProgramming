@@ -2,12 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9e046d9-35a6-462e-af84-c523f5a80d41" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem363B.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Problem363B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/META-INF/CompetitiveProgramming.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem112A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem112A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem116A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem116A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem118A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem118A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem122A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem122A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem133A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem133A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem158A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem158A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem160A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem160A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem200B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem200B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem208A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem208A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem228A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem228A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem230B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem230B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem231A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem231A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem236A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem236A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem25A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem25A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem263A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem263A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem266A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem266A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem268A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem268A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem281A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem281A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem282A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem282A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem313B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem313B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem318A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem318A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem339A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem339A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem344A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem344A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem368B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem368B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem443A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem443A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem451A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem451A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem467A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem467A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem467B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem467B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem469A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem469A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem474B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem474B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem486A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem486A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem499B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem499B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem4A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem4A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem4C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem4C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem519B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem519B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem520A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem520A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem546A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem546A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem59A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem59A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem617A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem617A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem61A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem61A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem677A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem677A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem69A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem69A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem705A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem705A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem71A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem71A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem734A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem734A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem734B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem734B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem96A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem96A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LinkedListDeletion$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LinkedListDeletion$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LinkedListDeletion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LinkedListDeletion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LoopInLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LoopInLL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LoopInLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LoopInLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/MiddleOfLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/MiddleOfLL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/MiddleOfLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/MiddleOfLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/NthNodeFromEnd$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/NthNodeFromEnd$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/NthNodeFromEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/NthNodeFromEnd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/PalindromeLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/PalindromeLL$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/PalindromeLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/PalindromeLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/RemoveDuplicates$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/RemoveDuplicates$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/RemoveDuplicates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/SinglyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/SinglyLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/SinglyLinkedList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Suneet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Suneet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Suneet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Suneet.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,19 +83,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Suneet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,68 +103,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Problem263A.java" />
-        <option value="$PROJECT_DIR$/src/Problem158B.java" />
-        <option value="$PROJECT_DIR$/src/Problem116A.java" />
-        <option value="$PROJECT_DIR$/src/Problem58A.java" />
-        <option value="$PROJECT_DIR$/src/Problem122A.java" />
-        <option value="$PROJECT_DIR$/src/Problem236A.java" />
-        <option value="$PROJECT_DIR$/src/Problem546A.java" />
-        <option value="$PROJECT_DIR$/src/Problem160A.java" />
-        <option value="$PROJECT_DIR$/src/Problem133A.java" />
-        <option value="$PROJECT_DIR$/src/Problem69A.java" />
-        <option value="$PROJECT_DIR$/src/Problem467A.java" />
-        <option value="$PROJECT_DIR$/src/Problem617A.java" />
-        <option value="$PROJECT_DIR$/src/Problem486A.java" />
-        <option value="$PROJECT_DIR$/src/Problem208A.java" />
-        <option value="$PROJECT_DIR$/src/Problem318A.java" />
-        <option value="$PROJECT_DIR$/src/Problem59A.java" />
-        <option value="$PROJECT_DIR$/src/Problem344A.java" />
-        <option value="$PROJECT_DIR$/src/Problem469A.java" />
-        <option value="$PROJECT_DIR$/src/Problem61A.java" />
-        <option value="$PROJECT_DIR$/src/Problem734A.java" />
-        <option value="$PROJECT_DIR$/src/Problem451A.java" />
-        <option value="$PROJECT_DIR$/src/Problem677A.java" />
-        <option value="$PROJECT_DIR$/src/Problem25A.java" />
-        <option value="$PROJECT_DIR$/src/Problem443A.java" />
-        <option value="$PROJECT_DIR$/src/Problem268A.java" />
-        <option value="$PROJECT_DIR$/src/Karan.java" />
-        <option value="$PROJECT_DIR$/src/Problem520A.java" />
-        <option value="$PROJECT_DIR$/src/Problem228A.java" />
-        <option value="$PROJECT_DIR$/src/Problem705A.java" />
-        <option value="$PROJECT_DIR$/src/Problem200B.java" />
-        <option value="$PROJECT_DIR$/src/Codeforces/Problem116A.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/LinkedList.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/LinkedListDeletion.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/SinglyLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/NthNodeFromEnd.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/MiddleOfLL.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/LoopInLL.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/PalindromeLL.java" />
-        <option value="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/RemoveDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/Codeforces/Problem4C.java" />
-        <option value="$PROJECT_DIR$/src/Codeforces/Problem230B.java" />
-        <option value="$PROJECT_DIR$/src/Codeforces/Problem519B.java" />
-        <option value="$PROJECT_DIR$/src/Codeforces/Problem474B.java" />
-        <option value="$PROJECT_DIR$/src/Codeforces/Problem313B.java" />
-        <option value="$PROJECT_DIR$/src/Codeforces/Problem734B.java" />
-        <option value="$PROJECT_DIR$/src/Codeforces/Problem499B.java" />
-        <option value="$PROJECT_DIR$/src/KotlinHeroA.kt" />
-        <option value="$PROJECT_DIR$/src/Codeforces/Problem467B.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/Codeforces/Problem368B.java" />
-        <option value="$PROJECT_DIR$/src/Suneet.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="800" />
-  </component>
+  <component name="ProjectId" id="1XXSlGvVakmt8x9Pv4IL6e9vogv" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -144,35 +134,6 @@
     </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CompetitiveProgramming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CompetitiveProgramming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CompetitiveProgramming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CompetitiveProgramming" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CompetitiveProgramming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="string&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;scanner&#9;PSI&#9;JAVA://java.util.Scanner&#10;str&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;String&#9;PSI&#9;JAVA://java.lang.String" />
@@ -191,9 +152,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Suneet">
+  <component name="RunManager" selected="Application.Problem363B">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem363B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem363B" />
+      <module name="CompetitiveProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -228,20 +203,6 @@
     </configuration>
     <configuration name="Problem499B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codeforces.Problem499B" />
-      <module name="CompetitiveProgramming" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem734B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem734B" />
       <module name="CompetitiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -297,16 +258,16 @@
       <item itemvalue="Application.Problem368B" />
       <item itemvalue="Application.Problem467B" />
       <item itemvalue="Application.Problem499B" />
-      <item itemvalue="Application.Problem734B" />
       <item itemvalue="Application.Suneet" />
+      <item itemvalue="Application.Problem363B" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem363B" />
         <item itemvalue="Application.Suneet" />
         <item itemvalue="Application.Problem368B" />
         <item itemvalue="Application.Problem467B" />
         <item itemvalue="Application.Problem499B" />
-        <item itemvalue="Application.Problem734B" />
       </list>
     </recent_temporary>
   </component>
@@ -323,69 +284,18 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="800" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34620887" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.3855932" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37482318" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4914163" weight="0.32107496" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50858366" side_tool="true" weight="0.32816902" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32909605" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3297568" />
-      <window_info anchor="right" id="Maven" order="9" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3390558" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49713877" weight="0.3253857" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39831698" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4914163" weight="0.32398316" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50858366" side_tool="true" weight="0.32816902" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32959327" />
-      <window_info anchor="right" id="Maven" order="0" />
-      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.24964234" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
-    </layout-to-restore>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -393,49 +303,41 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/LoopInLL.java</url>
           <line>50</line>
-          <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/LoopInLL.java</url>
           <line>52</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LinkedList/SinglyLinkedList/LoopInLL.java</url>
           <line>51</line>
-          <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Codeforces/Problem230B.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Codeforces/Problem230B.java</url>
           <line>35</line>
-          <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Codeforces/Problem230B.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Codeforces/Problem230B.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Suneet.java</url>
           <line>49</line>
-          <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
@@ -493,169 +395,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem230B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem4C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem519B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="24" column="25" lean-forward="true" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem474B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem313B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem734B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedList/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="474" column="22" lean-forward="true" selection-start-line="474" selection-start-column="22" selection-end-line="474" selection-end-column="22" />
-          <folding>
-            <element signature="e#19410#19411#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem499B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="27" lean-forward="true" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="657" column="18" selection-start-line="657" selection-start-column="18" selection-end-line="657" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="609" column="11" selection-start-line="609" selection-start-column="11" selection-end-line="609" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/KotlinHeroA.kt" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/StrictMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="230" column="32" selection-start-line="230" selection-start-column="32" selection-end-line="230" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="292" column="27" selection-start-line="292" selection-start-column="27" selection-end-line="292" selection-end-column="27" />
-          <folding>
-            <element signature="e#11119#11120#0" expanded="true" />
-            <element signature="e#11200#11201#0" expanded="true" />
-            <element signature="e#46227#46228#0" expanded="true" />
-            <element signature="e#46266#46267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem467B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem368B.kt" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codeforces/Problem368B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Suneet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
