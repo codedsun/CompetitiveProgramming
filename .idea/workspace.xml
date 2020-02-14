@@ -2,75 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9e046d9-35a6-462e-af84-c523f5a80d41" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem363B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Problem363B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem112A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem112A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem116A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem116A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem118A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem118A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem122A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem122A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem133A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem133A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem158A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem158A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem160A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem160A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem200B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem200B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem208A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem208A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem228A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem228A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem230B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem230B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem231A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem231A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem236A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem236A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem25A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem25A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem263A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem263A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem266A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem266A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem268A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem268A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem281A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem281A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem282A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem282A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem313B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem313B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem318A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem318A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem339A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem339A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem344A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem344A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem368B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem368B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem443A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem443A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem451A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem451A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem467A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem467A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem467B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem467B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem469A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem469A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem474B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem474B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem486A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem486A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem499B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem499B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem4A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem4A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem4C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem4C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem519B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem519B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem520A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem520A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem546A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem546A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem59A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem59A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem617A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem617A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem61A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem61A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem677A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem677A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem69A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem69A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem705A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem705A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem71A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem71A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem734A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem734A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem734B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem734B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem96A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem96A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LinkedListDeletion$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LinkedListDeletion$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LinkedListDeletion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LinkedListDeletion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LoopInLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LoopInLL$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LoopInLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/LoopInLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/MiddleOfLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/MiddleOfLL$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/MiddleOfLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/MiddleOfLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/NthNodeFromEnd$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/NthNodeFromEnd$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/NthNodeFromEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/NthNodeFromEnd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/PalindromeLL$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/PalindromeLL$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/PalindromeLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/PalindromeLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/RemoveDuplicates$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/RemoveDuplicates$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/RemoveDuplicates.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/RemoveDuplicates.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/SinglyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/SinglyLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/LinkedList/SinglyLinkedList/SinglyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Suneet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Suneet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem363B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitiveProgramming/Codeforces/Problem363B.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -152,9 +85,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem363B">
+  <component name="RunManager" selected="Application.Problem279B">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem115A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem115A" />
+      <module name="CompetitiveProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem279B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem279B" />
+      <module name="CompetitiveProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -173,36 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem368B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem368B" />
-      <module name="CompetitiveProgramming" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem467B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem467B" />
-      <module name="CompetitiveProgramming" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem499B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem499B" />
+    <configuration name="Problem451B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem451B" />
       <module name="CompetitiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -255,19 +188,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Problem368B" />
-      <item itemvalue="Application.Problem467B" />
-      <item itemvalue="Application.Problem499B" />
       <item itemvalue="Application.Suneet" />
       <item itemvalue="Application.Problem363B" />
+      <item itemvalue="Application.Problem115A" />
+      <item itemvalue="Application.Problem451B" />
+      <item itemvalue="Application.Problem279B" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem279B" />
+        <item itemvalue="Application.Problem451B" />
+        <item itemvalue="Application.Problem115A" />
         <item itemvalue="Application.Problem363B" />
         <item itemvalue="Application.Suneet" />
-        <item itemvalue="Application.Problem368B" />
-        <item itemvalue="Application.Problem467B" />
-        <item itemvalue="Application.Problem499B" />
       </list>
     </recent_temporary>
   </component>
