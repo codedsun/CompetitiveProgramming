@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9e046d9-35a6-462e-af84-c523f5a80d41" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Problem1092B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Problem1206B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Problem1325B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Problem766B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,7 +79,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem1092B">
+  <component name="RunManager" selected="Application.Problem1325B">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -98,6 +100,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem1206B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem1206B" />
+      <module name="CompetitiveProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem1325B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem1325B" />
+      <module name="CompetitiveProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem479C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem479C" />
+      <module name="CompetitiveProgramming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problem688B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codeforces.Problem688B" />
       <module name="CompetitiveProgramming" />
@@ -105,48 +149,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem977B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem977B" />
-      <module name="CompetitiveProgramming" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem978B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem978B" />
-      <module name="CompetitiveProgramming" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Codeforces.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Algorithms.SelectionSort" />
-      <module name="CompetitiveProgramming" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,18 +189,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Problem688B" />
-      <item itemvalue="Application.SelectionSort" />
-      <item itemvalue="Application.Problem978B" />
-      <item itemvalue="Application.Problem977B" />
       <item itemvalue="Application.Problem1092B" />
+      <item itemvalue="Application.Problem479C" />
+      <item itemvalue="Application.Problem1325B" />
+      <item itemvalue="Application.Problem1206B" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem1325B" />
+        <item itemvalue="Application.Problem1206B" />
+        <item itemvalue="Application.Problem479C" />
         <item itemvalue="Application.Problem1092B" />
         <item itemvalue="Application.Problem688B" />
-        <item itemvalue="Application.Problem978B" />
-        <item itemvalue="Application.Problem977B" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
