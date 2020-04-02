@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9e046d9-35a6-462e-af84-c523f5a80d41" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Problem476B.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codeforces/Problem1206B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codeforces/Problem1206B.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem545D">
+  <component name="RunManager" selected="Application.Problem1206B">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -194,9 +194,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem1206B" />
         <item itemvalue="Application.Problem545D" />
         <item itemvalue="Application.Problem766B" />
-        <item itemvalue="Application.Problem1206B" />
         <item itemvalue="Application.Problem1325B" />
         <item itemvalue="Application.Problem479C" />
       </list>

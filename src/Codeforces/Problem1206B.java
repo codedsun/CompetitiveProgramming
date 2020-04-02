@@ -1,41 +1,51 @@
 package Codeforces;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
+
+/**
+ * <a href="https://codeforces.com/problemset/problem/1206/B"/>
+ */
 public class Problem1206B {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        long a;
-        ArrayList<Long> minus = new ArrayList<>();
-        ArrayList<Long> plus = new ArrayList<>();
-        ArrayList<Long> zero = new ArrayList<>();
+        long n = sc.nextInt(); //no of items
+
+        List<Long> zeros = new ArrayList<>();
+        List<Long> positiveNumbers = new ArrayList<>();
+        List<Long> negativeNumbers = new ArrayList<>();
+
+        long inputtedNumber;
+
         for (int i = 0; i < n; i++) {
-            a = sc.nextLong();
-            if (a < 0) {
-                minus.add(a);
-            } else if (a == 0) {
-                zero.add(a);
+            inputtedNumber = sc.nextInt();
+            if (inputtedNumber > 0) {
+                positiveNumbers.add(inputtedNumber);
+            } else if (inputtedNumber == 0) {
+                zeros.add(inputtedNumber);
             } else {
-                plus.add(a);
+                negativeNumbers.add(inputtedNumber);
             }
         }
-        a = 0;
-        for (int j = 0; j < plus.size(); j++) {
-            a = a + (plus.get(j) - 1);
+
+        long costOfCoins = 0;
+        for (int i = 0; i < positiveNumbers.size(); i++) {
+            costOfCoins = costOfCoins + (positiveNumbers.get(i) - 1);
         }
 
-        for (int k = 0; k < minus.size(); k++) {
-            a = a + (-1 - minus.get(k));
+        for (int i = 0; i < negativeNumbers.size(); i++) {
+            costOfCoins = costOfCoins + (-1 - negativeNumbers.get(i));
+        }
 
+        if (zeros.size() > 0) {
+            costOfCoins = costOfCoins + zeros.size();
+        } else if (negativeNumbers.size() % 2 == 1) {
+            costOfCoins = costOfCoins + 2;
         }
-        if(zero.size()>0) {
-            a = a + zero.size();
-        }else if(minus.size()%2==1){
-            a = a+2;
-        }
-        System.out.println(a);
+
+        System.out.println(costOfCoins);
 
     }
 }
