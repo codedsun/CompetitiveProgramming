@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9e046d9-35a6-462e-af84-c523f5a80d41" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codeforces/Problem519C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codeforces/Problem1234B1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,7 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Problem1294C">
+  <component name="RunManager" selected="Application.Problem1234B1">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -101,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem1206B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem1206B" />
+    <configuration name="Problem1213B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem1213B" />
       <module name="CompetitiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -115,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem1213B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem1213B" />
+    <configuration name="Problem1234B1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codeforces.Problem1234B1" />
       <module name="CompetitiveProgramming" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -189,19 +189,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Problem1206B" />
       <item itemvalue="Application.Problem1213B" />
       <item itemvalue="Application.Problem1141B" />
       <item itemvalue="Application.Problem519C" />
       <item itemvalue="Application.Problem1294C" />
+      <item itemvalue="Application.Problem1234B1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem1234B1" />
         <item itemvalue="Application.Problem1294C" />
         <item itemvalue="Application.Problem519C" />
         <item itemvalue="Application.Problem1141B" />
         <item itemvalue="Application.Problem1213B" />
-        <item itemvalue="Application.Problem1206B" />
       </list>
     </recent_temporary>
   </component>
