@@ -1,4 +1,4 @@
-## GCD OF A Number / HCF
+# GCD OF A Number / HCF
 If we subtract smaller number from the greater number, the GCD
 of the number doesn't change. Hence this is the concept of the 
 basic euclidean algorithm
@@ -22,7 +22,7 @@ static int gcd(int a, int b)
     }
 ````
 
-#Extended Euclidean Algorithm 
+##Extended Euclidean Algorithm 
 Now instead of subtraction, we find the mod of the number and stop
 when the number/remainder becomes 0.
 
