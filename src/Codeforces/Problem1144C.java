@@ -7,7 +7,7 @@ public class Problem1144C {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int arr[] = new int[n];
-        int cnt[] = new int[n+1];
+        int cnt[] = new int[2*100000+1];
         int max = 0;
         int count = 0;
         for (int i = 0; i < n; i++) {
@@ -33,11 +33,10 @@ public class Problem1144C {
         }
         System.out.println();
         System.out.println(n-count);
-        for (int i = n; i >=0; i--) {
+        for (int i = cnt.length-1; i >=0; i--) {
             if(cnt[i]==1) {
                 System.out.print(i + " ");
             }
         }
-        System.out.println();
     }
 }
