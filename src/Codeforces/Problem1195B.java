@@ -7,28 +7,17 @@ public class Problem1195B {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextLong();
         long k = sc.nextLong();
-        if (n ==1 && k==1) {
+        if (n == 1 && k == 1) {
             System.out.println("0");
         } else {
-            long sum = 1;
-            long eat = 0;
-            long icecream = 2;
-            for (int i = 2; i <= n; i++) {
-                if (sum + icecream == k) {
-                    sum = sum + icecream;
-                    icecream++;
-                } else if (sum - 1 == k) {
-                    eat++;
-                    sum--;
-                } else if (i % 2 == 0) {
-                    eat++;
-                    sum--;
-                } else {
-                    sum = sum + icecream;
-                    icecream++;
+            long sum = 0;
+            for (int i = 1; i <= n; i++) {
+                sum = sum+i;
+                if(sum-(n-i)==k){
+                    System.out.println(n-i);
+                    break;
                 }
             }
-            System.out.println(eat);
         }
     }
 }
