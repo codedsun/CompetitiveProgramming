@@ -13,12 +13,11 @@ public class Problem492B {
             arr[i] = sc.nextLong();
         }
         Arrays.sort(arr);
-        long mmaxDiff = 0;
+        double mmaxDiff = 2*Math.max(arr[0],arr[n-1]-l);
         for (int i = 1; i < n; i++) {
             mmaxDiff = Math.max(mmaxDiff, arr[i]-arr[i-1]);
         }
-        mmaxDiff = Math.max(mmaxDiff/2, Math.max(arr[0],arr[n-1]-l));
-        System.out.println(mmaxDiff);
+        System.out.println(mmaxDiff/2);
     }
 
 }
