@@ -2,7 +2,7 @@ package Codeforces;
 
 import java.util.Scanner;
 
-public class A {
+public class Problem1562A {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
@@ -24,6 +24,5 @@ public class A {
             System.out.println(ans);
         }
     }
-
 
 }
