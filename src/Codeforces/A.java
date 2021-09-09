@@ -7,21 +7,41 @@ public class A {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
         while (t-- >= 1) {
-            long l = sc.nextLong();
-            long r = sc.nextLong();
-            long ans = Integer.MIN_VALUE;
-            l = Math.max(l,r/2);
-            while (l < r) {
-                ans = Math.max(ans, r % l);
-                if(r%l<ans){
-                    break;
+            int n = sc.nextInt();
+            String s = sc.next();
+            int a = 0;
+            int b = 0;
+            for (int i = 0; i < s.length(); i++) {
+                if (s.charAt(i) == 'a') {
+                    a++;
+                } else {
+                    b++;
                 }
-                l++;
             }
-            if(ans == Integer.MIN_VALUE){
-                ans = r%l;
+            int left = 0;
+            int right = s.length() - 1;
+            while (a != b && left < right) {
+                if(a>b){
+                    if(s.charAt(left) == 'a'){
+                        left++;
+                    }else if(s.charAt(right) == 'a'){
+                        right--;
+                    }else{
+                        left++;
+                        b--;
+                    }
+                }else {
+                    if(s.charAt(left) == 'b'){
+                        left++;
+                    }else if(s.charAt(right) == 'b'){
+                        right--;
+                    }else{
+                        left++;
+                        a--;
+                    }
+                }
             }
-            System.out.println(ans);
+            System.out.println((left+1)+" "+(right+1));
         }
     }
 

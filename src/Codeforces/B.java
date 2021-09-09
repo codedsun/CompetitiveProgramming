@@ -1,65 +1,35 @@
 package Codeforces;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class B {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        boolean[] prime = generatePrime();
-        ArrayList<Integer> set = generateNonPrime(prime);
         int t = sc.nextInt();
         while (t-- >= 1) {
-            int k = sc.nextInt();
+            int n = sc.nextInt();
             String s = sc.next();
-            for (int j = 0; j < set.size(); j++) {
-                String no = set.get(j)+"";
-                int count = 0;
-                int index =0;
-                for (int i = 0; i < s.length(); i++) {
-                    if(s.charAt(i) == no.charAt(index)){
-                        count++;
-                        index++;
+            char result[][] = new char[n][n];
+            boolean possible = true;
+            for (int i = 0; i < n; i++) {
+                char choice = s.charAt(i);
+                boolean win = false;
+                for (int j = 0; j < n; j++) {
+                    if (i == j) {
+                        result[i][j] = 'X';
                     }
-                    if(count == no.length()){
-                        break;
+                    if (choice == '1' && s.charAt(j) == '1') {
+                        result[i][j] = '=';
+                    } else if (choice == '1' && s.charAt(j) == '2') {
+                        result[i][j] = 'a';
+                    } else if (choice == '2' && s.charAt(j) == '1') {
+                        result[i][j] = '-';
+                    } else if (choice == '2' && s.charAt(j) == '2') {
+                        result[i][j] = '-';
                     }
                 }
-                if(count == no.length()){
-                    System.out.println(count);
-                    System.out.println(no);
-                    break;
-                }
             }
-
         }
     }
 
-    private static ArrayList<Integer> generateNonPrime(boolean[] prime) {
-        ArrayList<Integer> set = new ArrayList<>();
-        set.add(1);
-        for (int i = 2; i < 1000000; i++) {
-            if (!prime[i]) {
-                set.add(i);
-            }
-        }
-        return set;
-    }
-
-    private static boolean[] generatePrime() {
-        boolean a[] = new boolean[1000000];
-        for (int i = 0; i < a.length; i++) {
-            a[i] = true;
-        }
-
-        for (int p = 2; p * p < a.length; p++) {
-            if (a[p]) {
-                for (int i = p * p; i < a.length; i += p) {
-                    a[i] = false;
-                }
-            }
-        }
-
-        return a;
-    }
 }
