@@ -11,30 +11,30 @@ public class Problem1569A {
             String s = sc.next();
             int i = 0;
             int j = 0;
-            for (i = 0; i < s.length(); i++) {
-                int cal = s.charAt(i) == 'a' ? 1 : -1;
-                for (j = i + 1; j < s.length(); j++) {
-                    if (s.charAt(j) == 'a') {
-                        cal++;
-                    } else {
-                        cal--;
-                    }
-                    if (cal == 0) {
-                        break;
-                    }
-                }
-                if (cal == 0) {
-                    break;
-                }
-            }
-            if (i == s.length() && j == s.length()) {
+            if (n == 1) {
                 i = -1;
                 j = -1;
             } else {
+                char ch = s.charAt(i);
+                i = 0;
+                boolean find = false;
+                for (int k = 1; k < n; k++) {
+                    if(ch != s.charAt(k)){
+                        j = k;
+                        find = true;
+                        break;
+                    }else{
+                        i++;
+                    }
+                }
                 i++;
                 j++;
+                if(!find){
+                    i = -1;
+                    j = -1;
+                }
             }
-            System.out.println(i +" "+j);
+            System.out.println(i+" "+j);
         }
     }
 
