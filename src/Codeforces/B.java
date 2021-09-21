@@ -7,24 +7,33 @@ public class B {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
         while (t-- >= 1) {
-            String s = sc.next();
-            long sum = 0;
-            int c = -1;
-            for (int i = 0; i < s.length(); i++) {
-                if(c!= -1 && s.charAt(i)-48 == c){
-                    continue;
-                }else{
-                    c = s.charAt(i)-48;
-                    if(c==0){
-                        sum = sum+1;
-                    }
+            long a = sc.nextLong();
+            long b = sc.nextLong();
+            long c = sc.nextLong();
+            long m = sc.nextLong();
+            if (m == 0) {
+                if (b >=a && b >=c) {
+                    long temp = a;
+                    a = b;
+                    b = temp;
+                }else if(c>=a && c>=b){
+                    long temp = a;
+                    a = c;
+                    c = temp;
                 }
-
+                long sum = a - b - c;
+                if ((Math.abs(sum)) > 1) {
+                    System.out.println("NO");
+                } else {
+                    System.out.println("YES");
+                }
+            } else {
+                if (((a / 2) + (b / 2) + (c / 2)) == m) {
+                    System.out.println("YES");
+                } else {
+                    System.out.println("NO");
+                }
             }
-            if(sum>2){
-                sum = 2;
-            }
-            System.out.println(sum);
         }
     }
 
